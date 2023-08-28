@@ -22,7 +22,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulAkgull&theme=radical&show_icons=true&hide_border=true&layout=compact" /></a>
 </p>
 
-<h2 align = "center"> Languages :computer: </h2>
+<h2 align = "center"> Tech Stack :computer: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,mysql,firebase,figma,illustrator&theme=light" />
