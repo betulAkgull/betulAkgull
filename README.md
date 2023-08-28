@@ -8,8 +8,8 @@
 
 <h3 align="center"> I am a fresh graduate Computer Engineer, Currently learning Kotlin  :v: </h3>
 <h3 align="center"> I am interested in art and design :art: :flower_playing_cards: </h3>
-<br/>
 <h2 align = "center"> Contacts :purple_heart: </h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/betulakgul/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
