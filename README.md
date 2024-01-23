@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 
-<h2 align="center">Jr. Android Developer </h2>
+<h2 align="center">Android Developer </h2>
 
-<p align="center">
-  <img src="https://github.com/betulAkgull/betulAkgull/assets/76072632/9fd1d99c-3ae6-478e-a0b4-7bc3c47793b7" width="550" height="337">
-</p>
-
-<h3 align="center"> I am a fresh graduate Computer Engineer, Currently learning Kotlin  :v: </h3>
-<h3 align="center"> I am interested in art and design :art: :flower_playing_cards: </h3>
 <h2 align = "center"> Contacts :purple_heart: </h2>
 
 <p align="center">
