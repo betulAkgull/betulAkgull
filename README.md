@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 
-<h2 align="center">Android Developer </h2>
-
 <h2 align = "center"> Contacts :purple_heart: </h2>
 
 <p align="center">
